@@ -1,0 +1,19 @@
+.banner-sec {
+  min-height: 500px;
+  border-bottom-left-radius: 27%;
+  background-image: url(".../vapp-landing/img/tengah.png");
+}
+
+.accordion {
+  padding-top: 50px;
+}
+
+iframe {
+  padding-top: 50px;
+}
+
+.text-center img {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
